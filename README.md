@@ -1,5 +1,10 @@
 <div header align="center">
 
+<h1> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+	
+<h1> Hi <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">
+	
+	
 <h1> Akif Özsoy</h1>
 <h4> Data Scientist </h4>
 
