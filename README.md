@@ -1,35 +1,34 @@
 <div header align="center">
 
-<h1> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1> Hi there!<img src="images/waving-hand-joypixels.gif" width="30px">
 	
-<h1> Hi <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">
-	
-	
-<h1> Akif Özsoy</h1>
-<h4> Data Scientist </h4>
+<br> My name is Akif Özsoy. I'm a Data Scientist. &#128104;&#8205;&#128187;  </div>
 
-<hr>
+<div projects align="left">
+	
+### &#129299; Expertise in 
+1) Customer Analytics
+2) Classification and Regression Machine Learning Models
+3) Time Series Analysis
+4) Clustering & Segmentation
+	
+### &#129303; Passionately Curious on 
+- Data Visualization
+- Learning new things (technology, methodology, algorithm etc.) 
+	
+### &#129488; Continue to study 
+- Deep Learning Models
+- NLP
+	
 </div>
-
-Business-minded data scientist with data driven solutions to complex business problems in diverse industries. Highly-skilled in Customer Analytics, predictive machine learning models. Passionate about data visualization and learning new techniques.
-
 <hr>
 
-<div projects align="center">
+<div projects align="left"> </div>
+<h1> Contact </h1>
 
-
-<!-- 
-## **Projects**
-
-</div>
-
-1) *xxx:* 
-	 <a href="https://xxx.com/"> yyyyyy, </a>  <a href="https://github.com/maozsoy/xxxx">Source Code.</a>
-
--->
- 
-
-
+&#128241; &nbsp; +90 555 255 9423 <br><br>
+&#128232; &nbsp; mehmetakif.ozsoy@gmail.com <br><br>
+&#128195; &nbsp; <a href="https://resume-a.s3.us-east-2.amazonaws.com/CV_AkifOzsoy.pdf"> PDF Resume </a>
 	
-<a href="https://resume-a.s3.us-east-2.amazonaws.com/CV_AkifOzsoy.pdf"> PDF Resume </a>
+	
 
