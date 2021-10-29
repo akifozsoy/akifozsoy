@@ -1,11 +1,14 @@
 <div header align="center">
 
-<h1> Hi there!<img src="images/waving-hand-joypixels.gif" width="30px">
+<h2> Hey there! <img src="images/waving-hand-joypixels.gif" width="30px">
 	
-<br> My name is Akif Özsoy. I'm a Data Scientist. &#128104;&#8205;&#128187;  </div>
+<br> I am Akif Özsoy, a Data Scientist. 👨🏻‍💻 </h2> </div>
 
-<div projects align="left">
-	
+<!--&#128104;&#8205;&#128187; -->
+
+<!--
+<h3> About me </h3>
+
 ### &#129299; Expertise in 
 1) Customer Analytics
 2) Classification and Regression Machine Learning Models
@@ -19,12 +22,40 @@
 ### &#129488; Continue to study 
 - Deep Learning Models
 - NLP
+
+-->
+
+<!--
+| &#129299; <br /> Expertise in  | &#129303; <br /> Passionately Curious on | &#129488; <br /> Continue to study  |
+| ------------------------------ | ---------------------------------------- | ----------------------------------- |
+| Customer Analytics  		 | Data Visualization  			    | Deep Learning Models  		  |
+| Machine Learning Models 	 | Learning new things   		    | NLP  				  |
+| Time Series  			 |   					    | 					  |
+| Clustering & Segmentation  	 |   					    |				       	  |
+-->
 	
-</div>
-<hr>
+
+
+
+<h3> about_me.py </h3>
+
+```python
+akif = {
+	about_me: {
+		expertise_in	 : ['Customer Analytics', 'ML Models', 'Time Series', 
+				    'Clustering & Segmentation', 'Data Visualization'],
+		continue_to_study: ['Deep Learning', 'NLP']
+		},
+	language_tools: {
+		advanced	 : [Pyhton, SAS, SPSS, SQL],
+		familiar_with 	 : [R, Spark, AWS, Kibana, NiFi, Tableau]
+		}
+	}
+```
+
 
 <div projects align="left"> </div>
-<h1> Contact </h1>
+<h2> Contact </h2>
 
 &#128241; &nbsp; +90 555 255 9423 <br><br>
 &#128232; &nbsp; mehmetakif.ozsoy@gmail.com <br><br>
