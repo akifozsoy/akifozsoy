@@ -66,6 +66,6 @@ akif = {
 &#128195; &nbsp; <a href="https://resume-a.s3.us-east-2.amazonaws.com/CV_AkifOzsoy.pdf"> PDF Resume </a> &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
 &#128241; &nbsp; +90 555 255 9423  &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
 &#128232; &nbsp; mehmetakif.ozsoy@gmail.com &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 
-<img src="images/LI-In-Bug.png" width="23px"> &nbsp; <a href="https://www.linkedin.com/in/akifozsoy/"> linkedin.com/in/akifozsoy/ </a> <br><br>
+<img src="images/LI-In-Bug.png" width="23px"> &nbsp; <a href="https://www.linkedin.com/in/akifozsoy/"> linkedin.com/akifozsoy/ </a> <br><br>
 
 
