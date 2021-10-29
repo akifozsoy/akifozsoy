@@ -53,7 +53,7 @@ akif = {
 		continue_to_learn: ['Deep Learning', 'NLP']
 		},
 	language_tool: {
-		advanced	 : [Pyhton, SAS, SPSS, SQL],
+		advanced	 : [Pyhton, SQL, SAS, SPSS],
 		familiar_with 	 : [R, Spark, AWS, Kibana, NiFi, Tableau]
 		}
 	}
@@ -63,9 +63,9 @@ akif = {
 <div projects align="left"> </div>
 <h2> Contact </h2>
 
-&#128241; &nbsp; +90 555 255 9423 <br><br>
-&#128232; &nbsp; mehmetakif.ozsoy@gmail.com <br><br>
-&#128195; &nbsp; <a href="https://resume-a.s3.us-east-2.amazonaws.com/CV_AkifOzsoy.pdf"> PDF Resume </a>
-	
-	
+&#128195; &nbsp; <a href="https://resume-a.s3.us-east-2.amazonaws.com/CV_AkifOzsoy.pdf"> PDF Resume </a> &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+&#128241; &nbsp; +90 555 255 9423  &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+&#128232; &nbsp; mehmetakif.ozsoy@gmail.com &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 
+<img src="images/LI-In-Bug.png" width="23px"> &nbsp; <a href="https://www.linkedin.com/in/akifozsoy/"> linkedin.com/in/akifozsoy/ </a> <br><br>
+
 
