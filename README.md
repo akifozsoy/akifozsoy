@@ -1,9 +1,15 @@
+<!-- 
+https://github.com/coderjojo/creative-profile-readme 
+https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b
+-->
+
 <div header align="center">
 
 <h2> Hey there! <img src="images/waving-hand-joypixels.gif" width="30px">
 	
-<br> I am Akif Özsoy, a Data Scientist. 👨🏻‍💻 </h2> </div>
-
+<br> I'm Akif Özsoy, a Data Scientist. 👨🏻‍💻 
+<br><br> 6+ years experience in Data Analytics! </h2>
+ </div>
 <!--&#128104;&#8205;&#128187; -->
 
 <!--
@@ -41,12 +47,12 @@
 
 ```python
 akif = {
-	about_me: {
+	skill: {
 		expertise_in	 : ['Customer Analytics', 'ML Models', 'Time Series', 
 				    'Clustering & Segmentation', 'Data Visualization'],
-		continue_to_study: ['Deep Learning', 'NLP']
+		continue_to_learn: ['Deep Learning', 'NLP']
 		},
-	language_tools: {
+	language_tool: {
 		advanced	 : [Pyhton, SAS, SPSS, SQL],
 		familiar_with 	 : [R, Spark, AWS, Kibana, NiFi, Tableau]
 		}
