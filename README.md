@@ -47,12 +47,13 @@ https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-p
 
 ```python
 akif = {
-	skill: {
-		expertise_in	 : ['Customer Analytics', 'ML Models', 'Time Series', 
+	skills: {
+		 expertise_in 	  : ['Customer Analytics', 'ML Models', 'Time Series', 
 				    'Clustering & Segmentation', 'Data Visualization'],
-		continue_to_learn: ['Deep Learning', 'NLP']
+		 continue_to_learn: ['Deep Learning', 'NLP']
 		},
-	language_tool: {
+		
+	tools: {
 		advanced	 : [Pyhton, SQL, SAS, SPSS],
 		familiar_with 	 : [R, Spark, AWS, Kibana, NiFi, Tableau]
 		}
