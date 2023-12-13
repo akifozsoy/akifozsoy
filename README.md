@@ -8,7 +8,7 @@ https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-p
 <h2> Hey there! <img src="images/waving-hand-joypixels.gif" width="30px">
 	
 <br> I'm Akif Özsoy, a Data Scientist. 👨🏻‍💻 
-<br><br> 6+ years experience in Data Analytics! </h2>
+<br><br> 8+ years experience in Data Analytics! </h2>
  </div>
 <!--&#128104;&#8205;&#128187; -->
 
